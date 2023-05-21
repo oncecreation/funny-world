@@ -1,7 +1,4 @@
-# Small World
-
-- [GitHub](https://github.com/brunosimon/small-world)
-- [Live](https://small-world.vercel.app)
+# Funny World
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -17,3 +14,6 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+## Demo
+![alt](/demo.png)
